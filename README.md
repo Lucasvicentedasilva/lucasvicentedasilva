@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Lucas Vicente 👋
 
 
-- 🔭 Hoje trabalho com front-end 
+- 🔭 Analyst and Front-end Developer  
 - 🌱 Estudando Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email lucassilva.fj@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/lucasvicentedasilva">
@@ -13,11 +12,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+      <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+
 </div>
   
   ##
