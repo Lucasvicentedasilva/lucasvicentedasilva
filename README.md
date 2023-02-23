@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Vicente 👋
+### Olá! Eu sou o Lucas 👋
 
 
 - 🔭 Analyst and Front-end Developer  
