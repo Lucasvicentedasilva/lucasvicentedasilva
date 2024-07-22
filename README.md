@@ -1,24 +1,60 @@
 
-### Olá! Eu sou o Lucas 👋
-🔭 Analista e desenvolvedor FrontEnd<br>🌱 Estudando Análise e desenvolvimento de sistemas<br>📫 Contate-me no email: lucassilva.fj@hotmail.com<br><br>
+# Olá, sou Lucas 👋
 
-<div align="center">
+## 💼 Profissional de TI | 🖥️ Desenvolvedor Front-End | 🌐 Entusiasta Web
 
-![](https://github-readme-stats.vercel.app/api?username=Lucasvicentedasilva&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvicentedasilva&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sou um profissional de TI apaixonado por desenvolvimento web, com mais de 5 anos de experiência combinada em suporte e desenvolvimento front-end com vue.js.
 
-</div>
+### 🚀 Habilidades Principais
 
-## 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//lucasvicentedasilva/) 
+- **Front-End**: HTML, CSS, JavaScript, Vue.js (Nuxt 3), Vuetify
+- **Testes**: Vitest
+- **Banco de Dados**: SQL Server
+- **Ferramentas**: Postman, Git
+
+### 🌱 Atualmente Aprendendo
+
+- TypeScript
+- Node.js / Express
+- Criação de APIs REST
+- Documentação com Swagger
+
+### 💡 Projetos em Andamento
+
+Estou trabalhando em um projeto pessoal para aplicar meus conhecimentos em desenvolvimento full-stack, focando em:
+- Criação de APIs REST com Node.js/Express
+- Integração front-end/back-end
+- Documentação de API
+
+### 🎓 Formação
+
+- Graduação em Análise e Desenvolvimento de Sistemas
+
+### 🌍 Idiomas
+
+- Português (Nativo)
+- Inglês (Intermediário/Técnico)
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/lucasvicentedasilva/)
+- [Email](mailto:lucassilva.fj@hotmail.com)
+
+---
+
+💬 Estou sempre aberto a novos desafios e oportunidades de colaboração. Vamos conectar e criar algo incrível juntos!
 
 # 💻 Tecnologias:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Lucas-VUE" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Lucas-VUE" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-           
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="-VUE.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="-tailwindcss" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="bootstrap" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <img align="center" alt="bootstrap" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  
+            
+          
 </div>
 
