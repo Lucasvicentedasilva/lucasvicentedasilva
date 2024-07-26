@@ -14,6 +14,7 @@ Sou um profissional de TI apaixonado por desenvolvimento web, com mais de 5 anos
 
 ### 🌱 Atualmente Aprendendo
 
+- Vue.js (Em constante estudo)
 - TypeScript
 - Node.js / Express
 - Criação de APIs REST
