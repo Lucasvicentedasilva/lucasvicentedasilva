@@ -7,7 +7,7 @@ Sou um profissional de TI apaixonado por desenvolvimento web, com mais de 5 anos
 
 ### 🚀 Habilidades Principais
 
-- **Front-End**: HTML, CSS, JavaScript, Vue.js (Nuxt 3), Vuetify
+- **Front-End**: HTML, CSS, JavaScript, Vue.js, Nuxt 3 e Vuetify
 - **Testes**: Vitest
 - **Banco de Dados**: SQL Server
 - **Ferramentas**: Postman, Git
