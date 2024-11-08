@@ -18,6 +18,7 @@ Sou um profissional de TI apaixonado por desenvolvimento web, com mais de 5 anos
 - TypeScript
 - Node.js / Express
 - Criação de APIs REST
+- .NET C#
 - Documentação com Swagger
 
 ### 💡 Projetos em Andamento
