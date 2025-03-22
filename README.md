@@ -41,6 +41,7 @@ Estou trabalhando em um projeto pessoal para aplicar meus conhecimentos em desen
 
 - [LinkedIn](https://www.linkedin.com/in/lucasvicentedasilva/)
 - [Email](mailto:lucassilva.fj@hotmail.com)
+- [Portfólio](https://lucassilvadev.vercel.app/)
 
 ---
 
