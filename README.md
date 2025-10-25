@@ -3,7 +3,15 @@
 
 ## 💼 Profissional de TI | 🖥️ Desenvolvedor Front-End | 🌐 Entusiasta Web
 
-Sou um profissional de TI apaixonado por desenvolvimento web, com mais de 5 anos de experiência combinada em suporte e desenvolvimento front-end com vue.js.
+Desenvolvedor Web com experiência em Vue.js, Nuxt, Node.js, SQL Server e C#/.NET, unindo front-end e back-end para criar soluções robustas.
+
+Minha atuação como Analista de Suporte fortaleceu minha visão prática de sistemas em produção, aprimorando minha capacidade de resolver problemas rapidamente e desenvolver soluções mais estáveis e alinhadas às necessidades do negócio.
+
+Atualmente, venho expandindo minhas competências em back-end através de estudos avançados em .NET e Node.js, com foco em arquitetura de microsserviços, CI/CD, DDD e práticas ágeis (Scrum). Desenvolvi APIs REST com autenticação segura (JWT e OAuth), integração com serviços externos (como ChatGPT e login com Google), testes unitários e pipelines de deploy automatizados no Azure.
+
+Além disso, possuo conhecimentos básicos em Angular e React, o que amplia minha capacidade de adaptação a diferentes stacks e projetos front-end.
+
+Busco unir qualidade técnica, boas práticas de engenharia e visão de produto para gerar impacto real em empresas orientadas à inovação.
 
 ### 🚀 Habilidades Principais
 
