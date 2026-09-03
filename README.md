@@ -6,7 +6,7 @@ Trabalho com front-end e back-end, hoje como Analista de TI Pleno na Printwayy, 
 
 Fora do trabalho eu construo produto. Tenho um SaaS em beta aberto, um PWA que uso toda semana, um app desktop e um projeto open source, todos listados abaixo.
 
-Atualmente estou aprofundando back-end com .NET e Node.js, com foco em arquitetura de microsserviços, DDD, CI/CD no Azure e boas práticas de teste.
+Atualmente estou aprofundando back-end com .NET, com foco em arquitetura de microsserviços, DDD, CI/CD no Azure e boas práticas de teste.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasvicentedasilva/">
